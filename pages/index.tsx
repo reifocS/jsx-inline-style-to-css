@@ -7,9 +7,7 @@ import {camelToSnakeCase, getUniqueId, zip} from "../utils/utils";
 
 const example = `<div style={{display: "flex", gap : 10}}>
       <h1 style={{color: "red"}}>Hello Style!</h1>
-      <p>style is important</p>
-      <p>Add a little style!</p>
-      <span style={{float:'right'}}>Download Audit</span>
+      <span style={{float:'right'}}>Hi!</span>
 </div>`
 
 const style = `.classname-0 {
